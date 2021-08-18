@@ -32,7 +32,7 @@ body {
   color: revert;
   font-family: fantasy;
 }
-/* posiciona el titulo al centro en neumaticos */
+/* posiciona el titulo al centro en neumaticos y nuestra empresa */
 .centro {
   font-size: 35px;
   text-align: center;
@@ -130,7 +130,7 @@ section {
         color: violet;
         font-family: fantasy;
        }
-/* grid en tren trasero */
+/* grid en tren trasero, tren delantero, neumaticos y servicios*/
 .grid {
 border: 2px solid black;
 background: linear-gradient(45deg, black, transparent);
