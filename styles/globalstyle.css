@@ -70,7 +70,7 @@ p {
 section {
   margin: 20px;
   display: flex;
-  flex-direction: column;
+
  }
 
  section article {
@@ -144,8 +144,8 @@ font-weight: bold;
 .grids {
   display: grid;
   grid-template-columns: 100px 100px 100px 100px;
-  grid-gap: 280px;
-  grid-template-rows: 200px;
+  grid-gap: 330px;
+  grid-template-rows: 300px;
 }
 
   body {
