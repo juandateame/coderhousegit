@@ -27,11 +27,7 @@ body {
   font-family: fantasy;
   display: table-row;
 }
-/* contacto en pagina principal */
-.formulario {
-  color: revert;
-  font-family: fantasy;
-}
+
 /* posiciona el titulo al centro en neumaticos y nuestra empresa */
 .centro {
   font-size: 35px;
@@ -248,3 +244,8 @@ font-weight: bold;
      ;
    }
  }
+ footer h3{
+  font-size: 2rem;
+  font-weight: 900;
+  text-align: center;
+}
