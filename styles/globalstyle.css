@@ -8,7 +8,9 @@ body {
     background-position-x: -150px;
     background-repeat: no-repeat;
     background-size: 2200px;
+
 }
+
 /* Animacion de titulo pagina principal */
 .animate__animated{
   color: black;
@@ -21,11 +23,16 @@ body {
 }
 /* accesos a servicios neumaticos tren delantero y tren trasero */
 .serviciosWeb {
-  color: black;
-  text-decoration: black;
-  font-size: 20px;
-  font-family: fantasy;
-  display: table-row;
+  font-size: 25px;
+margin: 40px;
+padding: 10px;
+box-sizing: content-box;
+width: 250px;
+height: max-content;
+text-align: center;
+border-radius: 15px;
+color: black
+
 }
 
 /* posiciona el titulo al centro en neumaticos y nuestra empresa */
